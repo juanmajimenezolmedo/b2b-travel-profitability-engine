@@ -8,7 +8,7 @@
 
 ---
 
-## Projektbeschreibung
+## I. Projektbeschreibung
 
 Simulation eines analytischen Backend-Moduls für eine touristische B2B-SaaS-Plattform. Entwickelt zur Verarbeitung von Buchungsströmen mehrerer Reisebüros, zur Berechnung kommerzieller Margen und Leistungskennzahlen sowie zur Darstellung der Ergebnisse in einem interaktiven Dashboard.
 
@@ -16,17 +16,17 @@ Das Projekt demonstriert zuverlässigen, modularen Code für den produktionsnahe
 
 ---
 
-## Funktionen
+## II. Funktionen
 
-- 🔄 **Automatisierte Datenpipeline** — generiert und verarbeitet simulierte Buchungsdatensätze
-- 📊 **Margenberechnungs-Engine** — berechnet den Nettogewinn pro Buchung, Agentur und Reiseziel
-- 🏆 **B2B-Agentur-Ranking** — identifiziert die profitabelsten Agenturen (nicht nur nach Bruttovolumen)
-- 📈 **Interaktives Dashboard** — visuelle KPIs aus der Perspektive eines Product Managers oder Commercial Directors
-- 🛡️ **Fehlerbehandlung** — sauberer, stabiler Code für produktionsnahe Zuverlässigkeit
+1) **Automatisierte Datenpipeline** — generiert und verarbeitet simulierte Buchungsdatensätze
+2) **Margenberechnungs-Engine** — berechnet den Nettogewinn pro Buchung, Agentur und Reiseziel
+3) **B2B-Agentur-Ranking** — identifiziert die profitabelsten Agenturen (nicht nur nach Bruttovolumen)
+4) **Interaktives Dashboard** — visuelle KPIs aus der Perspektive eines Product Managers oder Commercial Directors
+5) **Fehlerbehandlung** — sauberer, stabiler Code für produktionsnahe Zuverlässigkeit
 
 ---
 
-## Technologie-Stack
+## III. Technologie-Stack
 
 | Schicht | Technologie |
 |---|---|
@@ -36,7 +36,7 @@ Das Projekt demonstriert zuverlässigen, modularen Code für den produktionsnahe
 
 ---
 
-## Projektstruktur
+## IV. Projektstruktur
 
 ```
 b2b-travel-profitability-engine/
@@ -53,7 +53,7 @@ b2b-travel-profitability-engine/
 
 ---
 
-## Erste Schritte
+## V. Erste Schritte
 
 ```bash
 # Repository klonen
@@ -71,9 +71,9 @@ python src/load_database.py
 
 ---
 
-## Status
+## VI. Status
 
-✅ **Abgeschlossen** — Pipeline, Datenbank und interaktives Dashboard vollständig betriebsbereit.
+**Abgeschlossen** — Pipeline, Datenbank und interaktives Dashboard vollständig betriebsbereit.
 
 🔗 **[Live Dashboard ansehen →](https://public.tableau.com/app/profile/juanma.jim.nez/viz/B2BTravelProfitabilityDashboard2025/Dashboard1)**
 
