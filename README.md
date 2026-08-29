@@ -8,7 +8,7 @@
 
 ---
 
-## Overview
+## I. Overview
 
 Simulation of a backend analytics module for a B2B tourism SaaS platform. Designed to process booking flows from multiple travel agencies, calculate commercial margins and performance indicators, and display results through an interactive dashboard.
 
@@ -16,17 +16,17 @@ Built to demonstrate reliable, modular code capable of running in real daily ope
 
 ---
 
-## Features
+## II. Features
 
-- 🔄 **Automated data pipeline** — generates and processes simulated booking datasets
-- 📊 **Margin calculation engine** — computes net profit per booking, agency and destination
-- 🏆 **B2B agency ranking** — identifies top performers by profitability (not just gross volume)
-- 📈 **Interactive dashboard** — visual KPIs for a Product Manager or Commercial Director perspective
-- 🛡️ **Error handling** — clean, stable code designed for production-like reliability
+1) **Automated data pipeline** — generates and processes simulated booking datasets
+2)  **Margin calculation engine** — computes net profit per booking, agency and destination
+3) **B2B agency ranking** — identifies top performers by profitability (not just gross volume)
+4) **Interactive dashboard** — visual KPIs for a Product Manager or Commercial Director perspective
+5) **Error handling** — clean, stable code designed for production-like reliability
 
 ---
 
-## Tech Stack
+## III. Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -36,7 +36,7 @@ Built to demonstrate reliable, modular code capable of running in real daily ope
 
 ---
 
-## Project Structure
+## IV. Project Structure
 
 ```
 b2b-travel-profitability-engine/
@@ -53,7 +53,7 @@ b2b-travel-profitability-engine/
 
 ---
 
-## Getting Started
+## V. Getting Started
 
 ```bash
 # Clone the repository
@@ -71,9 +71,9 @@ python src/load_database.py
 
 ---
 
-## Status
+## VI. Status
 
-✅ **Completed** — pipeline, database and interactive dashboard fully operational.
+**Completed** — pipeline, database and interactive dashboard fully operational.
 
 🔗 **[View Live Dashboard →](https://public.tableau.com/app/profile/juanma.jim.nez/viz/B2BTravelProfitabilityDashboard2025/Dashboard1)**
 
