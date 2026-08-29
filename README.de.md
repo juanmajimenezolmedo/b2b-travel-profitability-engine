@@ -4,6 +4,8 @@
 
 🌐 **Auch verfügbar in:** [🇬🇧 English](README.md) · [🇪🇸 Español](README.es.md)
 
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Tableau%20Public-blue?logo=tableau)](https://public.tableau.com/app/profile/juanma.jim.nez/viz/B2BTravelProfitabilityDashboard2025/Dashboard1)
+
 ---
 
 ## Projektbeschreibung
@@ -71,7 +73,9 @@ python src/load_database.py
 
 ## Status
 
-🚧 **In aktiver Entwicklung** — initiale Pipeline und Dashboard folgen in Kürze.
+✅ **Abgeschlossen** — Pipeline, Datenbank und interaktives Dashboard vollständig betriebsbereit.
+
+🔗 **[Live Dashboard ansehen →](https://public.tableau.com/app/profile/juanma.jim.nez/viz/B2BTravelProfitabilityDashboard2025/Dashboard1)**
 
 ---
 

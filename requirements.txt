@@ -1,7 +1,10 @@
 # Core data processing
 pandas>=2.0.0
 
-# Dashboard & visualization (to be used in /dashboard)
+# Excel export (for Tableau Public connection)
+openpyxl>=3.1.0
+
+# Dashboard & visualization
 dash>=2.14.0
 plotly>=5.18.0
 
